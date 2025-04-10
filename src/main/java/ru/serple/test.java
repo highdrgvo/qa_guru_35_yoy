@@ -5,9 +5,3 @@ public class Main {
         System.out.println("Hello qa.guru yyooooyyy!!");
     }
 }
-
-public class test {
-    public static void main(String... args) {
-        System.out.println("test_2");
-    }
-}
